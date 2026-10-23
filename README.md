@@ -4,7 +4,6 @@ Official open-source implementation and supplementary repository for the **IEEE 
 
 > **SpiroFusion-Net: Cross-Modal Deep Learning on Raw Spirograms and EHR for COPD Detection, Blow Salvage, and Survival Prediction**
 > *Md Emran Hasan, Yue-Fang Wu, and Dong-Jun Yu*
-> School of Computer Science and Engineering, Nanjing University of Science and Technology
 > **Repository:** https://github.com/emrancub/SpiroFusion-Net
 
 ---
@@ -43,3 +42,18 @@ Official open-source implementation and supplementary repository for the **IEEE 
 
 ## Data Availability & Acknowledgments
 All source code, figures, and supplementary material required to reproduce the main results of this study are freely available at https://github.com/emrancub/SpiroFusion-Net. Individual-level primary biomedical datasets are available from the UK Biobank (https://www.ukbiobank.ac.uk/) upon formal research application and approval (UK Biobank Project Application Number 419012), and the external validation datasets are publicly available from the US CDC National Health and Nutrition Examination Survey (https://wwwn.cdc.gov/nchs/nhanes/).
+
+## 📜 Citation
+
+If you use this framework or ideas from this work, please cite:
+
+> The final BibTeX entry and author list will be updated after acceptance.
+
+
+## 📧 Contact
+
+For questions, feedback, or collaboration:
+
+* **Md Emran Hasan** – [mdemranhasan@njust.edu.cn](mailto:mdemranhasan@njust.edu.cn) or/and, **Dong-Jun Yu** – [njyudj@njust.edu.cn](mailto:njyudj@njust.edu.cn)
+
+You are welcome to open an issue or pull request if you have suggestions or would like to contribute improvements. Full source code and a live Streamlit demo will be released after the journal’s decision.
